@@ -4,4 +4,4 @@
 
 * Changes from remote repository;
 
-* Как зовут вашего кота? Change form Vadim
+* Как зовут вашего кота? Changes from Vadim
