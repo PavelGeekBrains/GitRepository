@@ -9,3 +9,5 @@
 * Change local TE;
 
 * Change from remote to Julia;
+
+* Chang from local Julia.
