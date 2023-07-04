@@ -8,4 +8,4 @@
 
 * Change local TE;
 
-* Chande for Julia;
+* Change from remote to Julia;
