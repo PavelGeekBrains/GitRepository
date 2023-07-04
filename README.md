@@ -4,10 +4,6 @@
 
 * Changes from remote repository;
 
-* Changes from remote TE;
-
-* Change local TE;
-
 * Change from remote to Julia;
 
 * Chang from local Julia.
