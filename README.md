@@ -4,6 +4,4 @@
 
 * Changes from remote repository;
 
-* Changes from remote TE;
-
-* Change local TE;
+* Change from Yevgeny
