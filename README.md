@@ -4,6 +4,7 @@
 
 * Changes from remote repository;
 
-* Changes from remote TE;
+* Changes from remote repository Roman  Anufriev;
 
-* Change local TE;
+
+  
