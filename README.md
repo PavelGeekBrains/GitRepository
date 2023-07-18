@@ -4,6 +4,6 @@
 
 * Changes from remote repository;
 
-* Changes from remote TE;
+* Changes from Marat;
 
-* Change local TE;
+* changes from local commit;
